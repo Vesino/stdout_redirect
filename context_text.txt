@@ -1,0 +1,2 @@
+This values will be written in our file
+Also this string xd
